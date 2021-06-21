@@ -1,0 +1,21 @@
+.video-width{
+    height: 300px;
+    width: 50%;
+}
+
+.site-width{
+    width: 50%;
+    height: 400px;
+}
+
+.google-map{
+    height: 300px;
+    width: 100%;
+    border: 0;
+}
+
+.youtobe-clip{
+    height: 400px;
+    width: 50%;
+    border: 0;
+}
